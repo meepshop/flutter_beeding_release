@@ -8,13 +8,13 @@ Apple每隔數月都會推出協議更新，所以在那時候，記得參照以
 
 1. 請至 [Apple Developer](https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2F&rv=1) 官網，並輸入您的開發者帳號與密碼。
 
-![image](https://hackmd.io/_uploads/Bk6ZO0Ou6.png)
+![image](https://raw.githubusercontent.com/meepshop/flutter_beeding_release/main/1.png)
 
 2. 點選頁面上方的「Review agreement」按鈕。
 
-![image](https://hackmd.io/_uploads/HJ3HuRO_T.png)
+![image](https://raw.githubusercontent.com/meepshop/flutter_beeding_release/main/2.png)
 
 3. 閱讀完條款內文後，點選「Agree」。
 
-![image](https://hackmd.io/_uploads/rJoUuRuOT.png)
+![image](https://raw.githubusercontent.com/meepshop/flutter_beeding_release/main/3.png)
 
